@@ -1,8 +1,7 @@
 ### Hello World! 👋
-- 🧑‍🎓 현재 저는 42서울에서 학습중입니다. 
+- 주니어 프론트엔드 
 - 👀 Javascript (TypeScript), React, Node.js, Python
 
-[![yurlee's 42 stats](https://badge42.herokuapp.com/api/stats/yurlee?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 
 ### Badges
