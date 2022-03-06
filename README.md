@@ -1,5 +1,5 @@
 ### Hello World! 👋
-- 주니어 프론트엔드 
+- 주니어 프론트엔드 개발자
 - 👀 Javascript (TypeScript), React, Node.js, Python
 
 
