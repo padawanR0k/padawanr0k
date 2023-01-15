@@ -1,8 +1,4 @@
-### Hello World! 👋
-- 주니어 프론트엔드 개발자
-- 👀 Javascript (TypeScript), React, Node.js, Python
-
-
+> 많은걸 알고 싶고, 문제를 재치있게 해결하고 싶다
 
 ### Badges
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padawanr0k&layout=compact&exclude_repo=summary,padawanr0k.github.io,playground&hide=HTML)](https://github.com/padawanr0k/github-readme-stats)
